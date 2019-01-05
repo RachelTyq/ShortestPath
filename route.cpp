@@ -1,8 +1,4 @@
-/*
-周嘉明
-ZY1706133
-可执行文件为ubuntu下二进制文件，运行方法 ./route.bin
- */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <list>
